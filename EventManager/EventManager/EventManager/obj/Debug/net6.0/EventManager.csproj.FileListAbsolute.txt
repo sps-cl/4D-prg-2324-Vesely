@@ -1,0 +1,4 @@
+C:\Users\Jakub Veselý\Desktop\PRG\4D-prg-2324-Vesely\EventManager\EventManager\EventManager\obj\Debug\net6.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Veselý\Desktop\PRG\4D-prg-2324-Vesely\EventManager\EventManager\EventManager\obj\Debug\net6.0\EventManager.AssemblyInfoInputs.cache
+C:\Users\Jakub Veselý\Desktop\PRG\4D-prg-2324-Vesely\EventManager\EventManager\EventManager\obj\Debug\net6.0\EventManager.AssemblyInfo.cs
+C:\Users\Jakub Veselý\Desktop\PRG\4D-prg-2324-Vesely\EventManager\EventManager\EventManager\obj\Debug\net6.0\EventManager.csproj.CoreCompileInputs.cache
